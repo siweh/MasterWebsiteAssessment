@@ -4,14 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="386d8a8a-65cf-40eb-bf58-8255b6171c4c" name="Changes" comment="" />
+    <list default="true" id="386d8a8a-65cf-40eb-bf58-8255b6171c4c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amplifyapp/Applications/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/amplifyapp/Applications/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amplifyapp/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/amplifyapp/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amplifyapp/Utilities/SetUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/amplifyapp/Utilities/SetUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testNG.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SYTwNc1DELcOA4f4KhVVw1v0MQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,9 +40,62 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sanem\development\selenium-with-java\MasterWebsiteAssessment" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test.addProductTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MasterWebsiteAssessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amplifyapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amplifyapp" />
+      <option name="MAIN_CLASS_NAME" value="com.amplifyapp.Test" />
+      <option name="METHOD_NAME" value="addProductTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.addProductToCartTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MasterWebsiteAssessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amplifyapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amplifyapp" />
+      <option name="MAIN_CLASS_NAME" value="com.amplifyapp.Test" />
+      <option name="METHOD_NAME" value="addProductToCartTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Test.addProductTest" />
+        <item itemvalue="TestNG.Test.addProductToCartTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,5 +106,16 @@
       <updated>1689322758561</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

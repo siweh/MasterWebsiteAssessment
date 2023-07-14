@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Amplify App" parallel="tests">
-    <test name="Microsoft Edge">
-        <parameter name="browser" value="edge"/>
-        <parameter name="url" value="https://master.d2thsy9okxnekb.amplifyapp.com/product"/>
-        <classes>
-            <class name="com.amplifyapp.Test"/>
-        </classes>
-    </test>
 
     <test name="Chrome">
         <parameter name="browser" value="chrome"/>
-        <parameter name="url" value="https://master.d2thsy9okxnekb.amplifyapp.com/product"/>
+        <parameter name="url" value="https://CANDIDATE_003:qa_assessment@master.d2thsy9okxnekb.amplifyapp.com/product"/>
         <classes>
             <class name="com.amplifyapp.Test"/>
         </classes>
